@@ -1,1 +1,1 @@
-# GADS projects
+# GADS project gallery
