@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repo is an extension of the [Google Africa Developer Scholarship project gallery doc repo](https://github.com/gads-projects/doc). Past and present Google Africa Developer Scholarship learners and mentors are welcome to add their GADS projects to this repo. **Please note** that GADS team will not come to the gallery to check your project. Please submit your projects as instructed by the GADS team first, before you come here to add your projects. [Read more about the project from the doc](https://obiagba-mary.gitbook.io/gads-projects/about-the-project). Also read up [general guidelines for adding your project to the gallery](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/contributing).
+This repo is an extension of the [Google Africa Developer Scholarship project gallery doc repo](https://github.com/gads-projects/doc). Past and present Google Africa Developer Scholarship learners and mentors are welcome to add their GADS projects to this repo. **Please note** that GADS team will not come to the gallery to check your project. Submit your projects as instructed by the GADS team first, before you come here to add your projects. [Read more about the project from the doc](https://obiagba-mary.gitbook.io/gads-projects/about-the-project). Also read up [general guidelines for adding your project to the gallery](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/contributing).
 
 ## Projects highlights
 
