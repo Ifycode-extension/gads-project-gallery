@@ -25,22 +25,16 @@ This repo is an extension of the [Google Africa Developer Scholarship project ga
 <td align="center"><a href="put-link-to-hosted-project-here"><img src="put-img-url-here?v=4?s=100" width="300px;" alt="add-alt-text-for-your-image-here"/><br /><sub><b>Add project name here</b></sub></a><br /></td>
 ```
 
-## Instructions for adding team projects
-
-The readme of the project you are submitting should help anyone understand what your team worked on, in what phase of the program you built it and names of participating members. If you have a separate page for contributors (participating members) to the project instead, this is fine too. As with individual projects, we will check that your repo follows these guidelines. Add your team project(s) to the gallery using the format below:
-
+## Instructions for adding Individual projects
+Whether you choose to use the link to the hosted project or the readme repo, we will check the readme of the projects's github repo. The readme of the project you are submitting should help anyone understand what you worked on, in what phase of the program you built it, if given by the GADS team or your PLG mentor. See some readme examples. Add your individual project(s) to the gallery using the format below:
 ```
+## [Your full name here](your github profile link here)
 
 <table>
-
-  Only one table for team projects
-
-  Create a new table row <tr> to add your project if more than 3 columns <td> exists in a previous table row <tr>.
-
+  Create you own table for your individual projects.
+  Each table row <tr> you create inside the table should not have more than 3 columns <td>.
   See <td> format in the "general instructions for adding projects" section.
-
 </table>
-
 ```
 
 ## Contributors ✨
