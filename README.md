@@ -15,6 +15,16 @@ This repo is an extension of the [Google Africa Developer Scholarship project ga
   </tr>
 </table>
 
+## General instructions for adding projects
+* Locate the folder for the year you want to submit for
+* Project screenshot or image should have all sides equal 
+* Each table row `<tr>` should not have more than 3 columns `<td>`
+
+**Note:** Once it is reported that the link to your project is broken, it will be removed from the gallery. Use image with all sides equal. Do not adjust the width and size of the image in the `<td>` template below.
+```
+<td align="center"><a href="put-link-to-hosted-project-here"><img src="put-img-url-here?v=4?s=100" width="300px;" alt="add-alt-text-for-your-image-here"/><br /><sub><b>Add project name here</b></sub></a><br /></td>
+```
+
 ## Contributors ✨
 
 Thanks to these wonderful people for contributing to the GADS project gallery project. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key) for what icons mean.
