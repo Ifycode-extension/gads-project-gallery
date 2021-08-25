@@ -26,7 +26,7 @@ This repo is an extension of the [Google Africa Developer Scholarship project ga
 ```
 
 ## Instructions for adding Individual projects
-Whether you choose to use the link to the hosted project or the readme repo, we will check the readme of the projects's github repo. The readme of the project you are submitting should help anyone understand what you worked on, in what phase of the program you built it, if given by the GADS team or your PLG mentor. See some readme examples. Add your individual project(s) to the gallery using the format below:
+Whether you choose to use the link to the hosted project or the readme repo, [@Ifycode](https://github.com/Ifycode) will check the readme of the projects's github repo. The readme of the project you are submitting should help anyone understand what you worked on, in what phase of the program you built it, if given by the GADS team or your PLG mentor. See some readme examples. Add your individual project(s) to the gallery using the format below:
 ```
 ## [Your full name here](your github profile link here)
 
@@ -39,7 +39,7 @@ Whether you choose to use the link to the hosted project or the readme repo, we 
 
 
 ## Instructions for adding team projects
-The readme of the project you are submitting should help anyone understand what your team worked on, in what phase of the program you built it and names of participating members. If you have a separate page for contributors (participating members) to the project instead, this is fine too. As with individual projects, we will check that your repo follows these guidelines. Add your team project(s) to the gallery using the format below:
+The readme of the project you are submitting should help anyone understand what your team worked on, in what phase of the program you built it and names of participating members. If you have a separate page for contributors (participating members) to the project instead, this is fine too. As with individual projects, [@Ifycode](https://github.com/Ifycode) will check that your repo follows these guidelines. Add your team project(s) to the gallery using the format below:
 ```
 <table>
   Only one table for team projects
