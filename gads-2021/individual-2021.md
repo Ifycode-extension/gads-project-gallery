@@ -18,6 +18,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://aj-stiles.github.io/Pluralsight-Clone/"><img src="https://user-images.githubusercontent.com/86663712/131504133-06aba024-ed89-4bc3-a680-c0b249e9876a.PNG?v=4?s=100" width="300px;" alt="cloned pluralsight login page"/><br /><sub><b>Pluralsight Login clon</b></sub></a><br /></td>
+    <td align="center"><a href="https://aj-stiles.github.io/Pluralsight-Clone/"><img src="https://user-images.githubusercontent.com/86663712/131504133-06aba024-ed89-4bc3-a680-c0b249e9876a.PNG?v=4?s=100" width="300px;" alt="cloned pluralsight login page"/><br /><sub><b>Pluralsight Login clone</b></sub></a><br /></td>
   </tr>
 </table>
