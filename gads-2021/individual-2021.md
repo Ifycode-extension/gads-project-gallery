@@ -26,6 +26,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/k-man-null/PluralSightClone"><img src="https://user-images.githubusercontent.com/74916504/132679441-c034e13d-9dc8-494c-8659-01d930759a7e.png" width="300px;" alt="cloned pluralsight login page"/><br /><sub><b>Pluralsight Login Clone</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/k-man-null/PluralSightClone"><img src="https://user-images.githubusercontent.com/45185388/132919670-b39ddbac-850e-4d33-96d9-67aedf095760.png?v=4?s=100" width="300px;" alt="cloned pluralsight login page"/><br /><sub><b>Pluralsight Login Clone</b></sub></a><br /></td>
   </tr>
 </table>
